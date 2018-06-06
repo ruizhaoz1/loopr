@@ -32,12 +32,12 @@
   ],
   "fiat": [
     {
-      "value": "usd",
-      "label": "USD"
-    },
-    {
       "value": "cny",
       "label": "CNY"
+    },
+    {
+      "value": "usd",
+      "label": "USD"
     }
   ],
   "relays": [
@@ -54,7 +54,7 @@
       "name": "Test"
     }
   ],
-  "supportedTokenRInMarkets":["WETH", "LRC"],
+  "supportedTokenRInMarkets":["WETH", "LRC","GCB"],
   "markets": [
     {
       "tokenx": "LRC",
@@ -184,6 +184,76 @@
     {
       "tokenx": "ARP",
       "tokeny": "LRC",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "LRC",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "DAI",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "EOS",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "OMG",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "RDN",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "IOST",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "SNT",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "BAT",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "RHOC",
+      "tokeny": "GCB",
+      "pricePrecision": 3
+    },
+    {
+      "tokenx": "KNC",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "REQ",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "BNT",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "VITE",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "ARP",
+      "tokeny": "GCB",
       "pricePrecision": 8
     }
   ],
