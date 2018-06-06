@@ -357,6 +357,18 @@
       "minTradeValue": 0.001
     },
     {
+      "symbol": "GCB",
+      "name": "GCB",
+      "digits": 18,
+      "address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+      "unit": "GCB",
+      "website": "https://www.gcb.space/",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },
+    {
       "symbol": "EOS",
       "name": "EOS",
       "digits": 18,
