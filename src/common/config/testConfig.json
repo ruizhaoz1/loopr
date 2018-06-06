@@ -117,6 +117,18 @@
       "minTradeValue": 0.001
     },
     {
+      "symbol": "GCB",
+      "name": "GCB",
+      "digits": 18,
+      "address": "0xD852Cc4390be7EdD4F38b4DB1bD645CB22A70dB8",
+      "unit": "GCB",
+      "website": "",
+      "allowance": "1000000000000000000000",
+      "allowanceWarn": "5000000000000000000",
+      "precision": 6,
+      "minTradeValue": 0.001
+    },    
+    {
       "symbol": "RDN",
       "name": "RDN",
       "digits": 18,
