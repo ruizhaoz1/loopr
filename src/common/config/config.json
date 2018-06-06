@@ -62,6 +62,11 @@
       "pricePrecision": 8
     },
     {
+      "tokenx": "GCB",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
       "tokenx": "DAI",
       "tokeny": "WETH",
       "pricePrecision": 8
@@ -127,6 +132,11 @@
       "pricePrecision": 8
     },
     {
+      "tokenx": "GCB",
+      "tokeny": "LRC",
+      "pricePrecision": 8
+    },    
+    {
       "tokenx": "EOS",
       "tokeny": "LRC",
       "pricePrecision": 8
@@ -188,6 +198,11 @@
     },
     {
       "tokenx": "LRC",
+      "tokeny": "GCB",
+      "pricePrecision": 8
+    },
+    {
+      "tokenx": "WETH",
       "tokeny": "GCB",
       "pricePrecision": 8
     },
