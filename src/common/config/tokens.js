@@ -67,6 +67,11 @@ export default [
       "icon": true,
   },
   {
+      "symbol": "GCB",
+      "title": "GCB",
+       "icon": true,    
+  },
+  {
       "symbol": "RDN",
       "title": "Raiden Network",
   },
