@@ -87,7 +87,7 @@ let basicSchemas = {
   CURRENCY: {
     type: 'string',
     required: true,
-    enum: ['USD', 'CNY'],
+    enum: ['CNY','USD'],
   },
   DEFAULT_BLOCK: {
     type: 'string',
